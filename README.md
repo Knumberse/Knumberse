@@ -1,4 +1,4 @@
 
-knumberse@proton.me
-20
-student
+knumberse@proton.me |
+20 |
+student |
