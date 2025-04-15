@@ -1,5 +1,5 @@
 # Cybersecurity Analyst & Scripter
-### [EMAIL](knumberse@proton.me)
+### <knumberse@proton.me>
 
 ### Other Links
 - [LinkedIn](https://www.linkedin.com/in/davin-combs-082283272/ "My LinkedIn.")
